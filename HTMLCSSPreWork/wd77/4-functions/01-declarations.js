@@ -3,7 +3,7 @@ FUNCTIONS
 */
 
 //General Ideas: at their broadest level, functions do the following
-//1) They take some input which the functions with handle/process. 
+//1) They take some input which the function with handle/process. 
 //2) They process the input given to them. 
 //3) They usually but not always, return some value. 
 //4) They can be invoked (used) as many times as we want, cutting down on code repitition

@@ -42,7 +42,7 @@ let apples = x => `there are ${x} apples`; //can exclude parenthesis if there is
 console.log(apples(10))
 
 //block body:
-let bananas = x => {
+let bananas = (x) => {
     return `there are ${x} bananas`;
 }
 
